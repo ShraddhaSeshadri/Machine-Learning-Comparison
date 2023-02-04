@@ -11,4 +11,5 @@ Classification and Regression Trees
 Naive Bayes
 Support Vector Machines
 
-The problem is a standard binary classification dataset called the Pima Indians onset of diabetes problem. The problem has two classes and eight numeric input variables of varying scale
+The problem is a standard binary classification dataset called the Pima Indians onset of diabetes problem. The problem has two classes and eight numeric input variables of varying scale,
+To get a detailed explanation of this notebook please refer my medium post https://medium.com/@shradrobo/basics-of-machine-learning-e798845c63ed
